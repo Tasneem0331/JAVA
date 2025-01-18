@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60c5dc5f-21a6-416b-9db2-a7cc3ff658b4" name="Changes" comment="" />
+    <list default="true" id="60c5dc5f-21a6-416b-9db2-a7cc3ff658b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab manual 7/topic 3/lab07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab manual 7/topic 4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab manual 7/money/MoneyExchanger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab manual 7/money/lab07.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2rmkIcD1eFrZhIUSTyYLi6fqDZN" />
   <component name="ProjectViewState">
